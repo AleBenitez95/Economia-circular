@@ -11,3 +11,4 @@
 4. [La economía verde](economia_verde.md)
 5. [Ciclo de vida de un producto](ciclo.md)
 6. [El ecodiseño y las estrategias sostenibles](ecodiseño.md)
+7. [Referencias](referencias.md)
