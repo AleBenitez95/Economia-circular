@@ -19,4 +19,5 @@ Según la definición que establece la Unión Europea, la economía circular es 
 6. Recuperar: Recuperar los materiales ya usados para poder reintroducirlos como materia prima
 7. Reciclar: Desecharlos en el contenedor oportuno.
 
+![img3](img/img3.jpeg)
 
