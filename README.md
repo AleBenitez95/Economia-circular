@@ -12,3 +12,4 @@
 5. [Ciclo de vida de un producto](ciclo.md)
 6. [El ecodiseño y las estrategias sostenibles](ecodiseño.md)
 7. [Referencias](referencias.md)
+8. [Conclusion](conclusion.md)
