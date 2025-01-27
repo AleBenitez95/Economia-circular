@@ -3,4 +3,4 @@
 [La regla de las 7R](https://www.ecologiaverde.com/7r-redisenar-reducir-reutilizar-reparar-renovar-recuperar-y-reciclar-2066.html)
 
 
-[¿Qué es el consumismo](https://concepto.de/consumismo/#ixzz8yXoejnUb)
+[¿Qué es el consumismo?](https://concepto.de/consumismo/#ixzz8yXoejnUb)
