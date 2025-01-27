@@ -12,3 +12,8 @@
 [Ciclo de vida de un producto](https://www.munich-business-school.de/es/l/diccionario-de-estudios-empresariales/ciclo-de-vida-del-producto#:~:text=El%20ciclo%20de%20vida%20de,de%20ventas%20como%20de%20costes.)
 
 [Obsolescencia Programada](https://www.iberdrola.com/sostenibilidad/obsolescencia-programada)
+
+[Ecodiseño](https://www.camara.es/innovacion-y-competitividad/como-innovar/diseno-sostenible#:~:text=El%20ecodise%C3%B1o%20es%20una%20filosof%C3%ADa,la%20producci%C3%B3n%2C%20utilizaci%C3%B3n%20y%20retirada.)
+
+
+[Economía Verde](https://corporate.enelx.com/es/question-and-answers/what-is-green-economy)
