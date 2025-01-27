@@ -6,4 +6,10 @@ En cada fase, el producto tiene un comportamiento diferente, tanto en términos 
 
 La fase de desarrollo es la más costosa y engorrosa, mientras que la fase de introducción es una fase de crecimiento y la fase de madurez es un periodo de costes más bajos y ventas estables.
 
-En la última fase, el producto puede disminuir o desaparecer, dependiendo de cómo lo reciba el mercado
+En la última fase, el producto puede disminuir o desaparecer, dependiendo de cómo lo reciba el mercado.
+
+
+# Obsolescencia Programada
+
+La obsolescencia programada tiene que ver con aquellos productos diseñados para fallar de forma prematura o quedarse obsoletos a corto-medio plazo.
+
