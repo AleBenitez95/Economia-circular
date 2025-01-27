@@ -1,2 +1,2 @@
 
-![Economiacircular](img/ec.jpg)
+![Economiacircular](img/Ec.jpg)
