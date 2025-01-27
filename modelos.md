@@ -2,7 +2,7 @@
 
 Es un modelo de usar y tirar en el que se explotan los recursos naturales para transformarlos en materiales y productos. Los consumidores compramos los productos, los usamos y finalmente los tiramos acabando en vertederos.
 
-![img4](img/img4.jpg)
+![img4](img/img4.png)
 
 
 
