@@ -10,3 +10,5 @@
 [Huella Ecológica](https://www.miteco.gob.es/es/ceneam/exposiciones-del-ceneam/exposiciones-itinerantes/huella-ecologica.html)
 
 [Ciclo de vida de un producto](https://www.munich-business-school.de/es/l/diccionario-de-estudios-empresariales/ciclo-de-vida-del-producto#:~:text=El%20ciclo%20de%20vida%20de,de%20ventas%20como%20de%20costes.)
+
+[Obsolescencia Programada](https://www.iberdrola.com/sostenibilidad/obsolescencia-programada)
