@@ -4,3 +4,5 @@
 
 
 [¿Qué es el consumismo?](https://concepto.de/consumismo/#ixzz8yXoejnUb)
+
+[modelo de producción](https://empresa.unlugarmejor.com/sistema-productivo-actual-lineal/)
