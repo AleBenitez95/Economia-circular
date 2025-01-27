@@ -13,3 +13,8 @@
 6. [El ecodiseño y las estrategias sostenibles](ecodiseño.md)
 7. [Referencias](referencias.md)
 8. [Conclusion](conclusion.md)
+9. [Glosario](glosario.md)
+10. [Mapa conceptual](mapa.md)
+
+
+Alejandro Benítez Quidato
